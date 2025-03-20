@@ -7,3 +7,5 @@ This repo is used to teach collaboration in a git repo.
 
 * Jonathan Walsh
 * Jamell Alvarez
+
+This example repo is awesome
